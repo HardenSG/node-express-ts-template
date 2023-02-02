@@ -1,0 +1,27 @@
+
+----------------WEB SERVER ERROR----------------
+    TIME：2023-02-02 11:24:35 
+    ERROR_NAME：UnauthorizedError 
+    ERROR_MSG：No authorization token was found 
+    
+    IP：::ffff:127.0.0.1
+    ORIGIN：undefined
+    REFERER：undefined
+    PATH：/api
+    USER_AGENT：PostmanRuntime/7.29.2
+------------------------------------------------
+    
+----------------SYSTEM ERROR----------------
+    TIME：2023-02-02 11:24:43 
+    ERROR_NAME：Error 
+    ERROR_MSG：error 
+    
+--------------------------------------------
+    
+----------------SYSTEM ERROR----------------
+    TIME：2023-02-02 11:25:19 
+    ERROR_NAME：Error 
+    ERROR_MSG：error 
+    
+--------------------------------------------
+    
